@@ -1,0 +1,4 @@
+/* Streamlit styling tweaks */
+div.stProgress > div > div > div {
+    background-image: linear-gradient(to right, #0072ff, #00c6ff);
+}
