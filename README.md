@@ -99,12 +99,3 @@ Launch the web interface locally:
 streamlit run app/app.py
 ```
 
----
-
-## 📝 Resume-Ready Bullet Points
-
-Copy and paste these bullet points onto your resume:
-*   **Customer Churn Prediction System | Python, Scikit-learn, XGBoost, Streamlit, Pandas**
-    *   Designed and built an end-to-end machine learning pipeline to predict customer churn, achieving **80.5% accuracy** and **0.841 ROC-AUC** on a dataset of 7,040+ telecom customers.
-    *   Optimized Logistic Regression, Random Forest, and XGBoost models using Grid Search CV; encapsulated preprocessing (OneHotEncoder, StandardScaler) and estimator into a unified Scikit-learn Pipeline.
-    *   Developed and deployed an interactive Streamlit web application showcasing real-time inference, predictive probabilities, and an automated customer retention playbook generating custom business recommendations.
